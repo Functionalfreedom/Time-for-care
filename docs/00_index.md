@@ -1,9 +1,13 @@
-## Documentation Index
+# Documentation Index
 
-This index lists all Markdown files available in the `docs` directory for easy navigation. Click on the links below to access the respective documentation.
+Welcome to the repository documentation. Below you will find an organized guide to the materials available.
 
-- [Document 1](docs/example1.md)
-- [Document 2](docs/example2.md)
-- [Document 3](docs/example3.md)
+## Categories:
 
-_Last updated: 2025-12-18 17:30:57 UTC_
+- [Glossary](glossary.md): A comprehensive guide to all technical terms and their definitions.
+- [Architecture Overview](architecture.md): An in-depth look into the design and structure of the project.
+- [Simulations](simulations.md): Details and results of simulated scenarios and use cases.
+- [Source Code Guide](source_code.md): Guidelines for understanding and contributing to the codebase.
+- [Governance](governance.md): The rules and principles governing this project.
+
+Make use of this index to navigate through the available documentation and make contributions as required.

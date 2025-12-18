@@ -1,13 +1,9 @@
-# Index
+## Documentation Index
 
-Welcome to the documentation for the Time for care project. Below is an organized list of all available documentation files. Click on any link to navigate to it.
+This index lists all Markdown files available in the `docs` directory for easy navigation. Click on the links below to access the respective documentation.
 
-- [03_hospital_bottlenecks](03_hospital_bottlenecks.md)
-- [04_solution_architecture](04_solution_architecture.md)
-- [05_safety_and_failures](05_safety_and_failures.md)
-- [06_simulation_model](06_simulation_model.md)
-- [07_known_limitations](07_known_limitations.md)
-- [08_roadmap](08_roadmap.md)
-- [Glossary](glossary.md)
+- [Document 1](docs/example1.md)
+- [Document 2](docs/example2.md)
+- [Document 3](docs/example3.md)
 
-Feel free to explore each document to gain a deeper understanding of the project and its goals.
+_Last updated: 2025-12-18 17:30:57 UTC_
